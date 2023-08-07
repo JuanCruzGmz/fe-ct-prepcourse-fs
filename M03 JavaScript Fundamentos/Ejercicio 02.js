@@ -19,29 +19,27 @@ function suma(x, y) {
 function resta(x, y) {
    // Retorna el resultado de la resta.
    // Tu código:
-   var resta = x - y;
-   return  resta;
+   var resultado = x - y;
+   return  resultado;
 }
 
 function divide(x, y) {
    // Retorna el resultado de su división.
    // Tu código:
-   var divide = x / y;
-   return  divide;
+   return  x / y;
 }
 
 function multiplica(x, y) {
    // Retorna el resultado de su multiplicación.
    // Tu código:
-   var multiplica = x * y;
-   return  multiplica;
+   return  x * y;
 }
 
 function obtenerResto(x, y) {
    // Obten el resto de la división de "x" entre "y".
    // Tu código:
-   var obtenerResto = x % y;
-   return  obtenerResto;
+   var resultado = (x % y);
+   return  resultado;
 }
 
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/

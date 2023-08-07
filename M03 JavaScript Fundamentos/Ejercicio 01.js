@@ -8,10 +8,10 @@
 const nuevoString = 'Hola';
 
 // Crea una variable de tipo number.
-const nuevoNumero = 23;
+const nuevoNumero = 3;
 
 // Crea una variable de tipo boolean.
-const nuevoBoolean = soleado= true;
+const nuevoBoolean = false;
 
 // Resuelve el siguiente problema matemático.
 const nuevaResta = 10 - 7 === 3;
